@@ -1,0 +1,42 @@
+/* QRCodePage.css */
+.qrcode-page {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh; /* 전체 높이를 차지 */
+  padding: 20px;
+  background-color: #fafafa; /* 배경색 설정 */
+}
+
+.qrcode-page h1 {
+  color: #333;
+  margin: 20px 0; /* 타이틀 여백 설정 */
+}
+
+.qrcode-container {
+  width: 80%; /* 너비를 부모의 80%로 설정 */
+  padding: 20px;
+  background-color: white; /* 배경색 */
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); /* 그림자 효과 */
+  border-radius: 8px; /* 경계 모서리 둥글게 */
+}
+
+.barcode-generator,
+.qr-generator {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+input {
+  margin-bottom: 20px;
+}
+
+button {
+  margin: 10px;
+  padding: 10px 20px;
+  cursor: pointer;
+}

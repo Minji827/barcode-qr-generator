@@ -1,0 +1,47 @@
+.menu-bar {
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  background-color: rgb(0, 0, 0);
+  z-index: 1;
+}
+
+.menu-contents {
+  display: flex;
+  padding: 20px 30px;
+  justify-content: space-between; /* 양 끝으로 요소를 밀어냅니다. */
+}
+
+.menu-title > a {
+  color: rgb(255, 255, 255);
+  font-size: 25px;
+  cursor: pointer;
+  text-decoration: none;
+  font-family: "Dela Gothic One", sans-serif;
+}
+
+.menu-list {
+  display: flex;
+  flex-direction: row; /* 요소들을 가로로 정렬 */
+  align-items: center; /* 중앙 정렬 */
+}
+
+.menu-item {
+  margin: 0 20px; /* 좌우 간격을 적당히 조정 */
+}
+
+.menu-item > a {
+  color: rgb(255, 255, 255);
+  font-size: 20px;
+  cursor: pointer;
+  text-decoration: none;
+  padding: 10px 15px; /* 버튼 패딩 추가 */
+  border-radius: 5px; /* 버튼 모서리 둥글게 */
+  background: rgba(255, 255, 255, 0.1); /* 버튼 배경색 추가 */
+  transition: background 0.3s; /* 배경색 변화 애니메이션 */
+}
+
+.menu-item > a:hover {
+  background: rgba(255, 255, 255, 0.2); /* 마우스 호버 시 배경색 변경 */
+}

@@ -1,0 +1,12 @@
+/* CreateQR.css */
+.create-qr {
+  padding: 20px;
+  text-align: center;
+}
+
+.create-qr input {
+  margin: 10px;
+  padding: 10px;
+  width: 300px;
+  font-size: 16px;
+}
