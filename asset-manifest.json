@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/barcode-qr-sheet-generator/static/css/main.22ec08a0.css",
+    "main.js": "/barcode-qr-sheet-generator/static/js/main.261f1058.js",
+    "static/js/239.6773a457.chunk.js": "/barcode-qr-sheet-generator/static/js/239.6773a457.chunk.js",
+    "static/js/213.18c97b10.chunk.js": "/barcode-qr-sheet-generator/static/js/213.18c97b10.chunk.js",
+    "static/js/732.48b2322c.chunk.js": "/barcode-qr-sheet-generator/static/js/732.48b2322c.chunk.js",
+    "static/js/453.f21f18a0.chunk.js": "/barcode-qr-sheet-generator/static/js/453.f21f18a0.chunk.js",
+    "index.html": "/barcode-qr-sheet-generator/index.html",
+    "main.22ec08a0.css.map": "/barcode-qr-sheet-generator/static/css/main.22ec08a0.css.map",
+    "main.261f1058.js.map": "/barcode-qr-sheet-generator/static/js/main.261f1058.js.map",
+    "239.6773a457.chunk.js.map": "/barcode-qr-sheet-generator/static/js/239.6773a457.chunk.js.map",
+    "213.18c97b10.chunk.js.map": "/barcode-qr-sheet-generator/static/js/213.18c97b10.chunk.js.map",
+    "732.48b2322c.chunk.js.map": "/barcode-qr-sheet-generator/static/js/732.48b2322c.chunk.js.map",
+    "453.f21f18a0.chunk.js.map": "/barcode-qr-sheet-generator/static/js/453.f21f18a0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22ec08a0.css",
+    "static/js/main.261f1058.js"
+  ]
+}
